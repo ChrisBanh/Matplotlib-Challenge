@@ -1,1 +1,3 @@
 # Matplotlib-Challenge
+
+Welcome to my MatPlotlib Challenge. This challenge revolves around using various features of the matplotlib library to visualise  various datasets through python itself. The data used today are the various drugs and effects on the tumor in difference mice. The main drug of interest is one called Capomulin. Comparisons are made through box plots and bar chats by drawing specific data from the soure materials. Finally the properties of the drug are exmined through a sample mice over a period of 45 days and a linear regression model was made for all of the tumors treated through the drug of interest. 
